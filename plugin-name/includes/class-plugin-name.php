@@ -201,7 +201,6 @@ class Plugin_Name {
 	 * @since     1.0.0
 	 * @return    Plugin_Name_Loader    Orchestrates the hooks of the plugin.
 	 */
-	public function get_loader() {
 		return $this->loader;
 	}
 
